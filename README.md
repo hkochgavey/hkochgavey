@@ -1,8 +1,8 @@
 
-
+<h1 align="center">Hi 👋, I'm Harsh Kochgavey</h1>
 [![@kochgavey's Holopin board](https://holopin.io/api/user/board?user=kochgavey)](https://holopin.io/@kochgavey)
-<h1 align="center">Hi 👋, I'm HARSH KOCHGAVEY</h1>
-<h3 align="center">HEY!!</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkochgavey&label=Profile%20views&color=0e75b6&style=flat" alt="hkochgavey" /> </p>
 

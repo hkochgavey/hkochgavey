@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi!!</h1>
+<h1 align="center">Hello!</h1>
 <h2 align="center">I'm Harsh Kochgavey</h2>
 [![@kochgavey's Holopin board](https://holopin.io/api/user/board?user=kochgavey)](https://holopin.io/@kochgavey)
 

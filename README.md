@@ -1,7 +1,10 @@
 
+[![@kochgavey's Holopin board](https://holopin.me/kochgavey)](https://holopin.io/@kochgavey)
+
+
 <h1 align="center">Hello!</h1>
 <h2 align="center">I'm Harsh Kochgavey</h2>
-[![@kochgavey's Holopin board](https://holopin.me/kochgavey)](https://holopin.io/@kochgavey)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkochgavey&label=Profile%20views&color=0e75b6&style=flat" alt="hkochgavey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkochgavey" alt="hkochgavey" /></a> </p>
